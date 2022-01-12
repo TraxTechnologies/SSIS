@@ -1,0 +1,17 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "HoneywellGlobalBooking", "HoneywellGlobalBooking\HoneywellGlobalBooking.dtproj", "{CA27A23A-B26C-4074-8D52-7D65BF00AEA3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CA27A23A-B26C-4074-8D52-7D65BF00AEA3}.Development|Default.ActiveCfg = Development
+		{CA27A23A-B26C-4074-8D52-7D65BF00AEA3}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
